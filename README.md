@@ -13,7 +13,7 @@
 - React-Native, Flutter, Android
 - MongoDB, MySQL, Redis
 
-<img style="position: absolute; align-self: flex-end;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+<img style="position: absolute; left: 0px;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif"/>
 
 ## Social Contacts 🤝
 <!-- 
@@ -21,10 +21,10 @@
  &nbsp; -->
 [![Instagram][insta-shield]][insta-url]
 <!--  <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-line.svg"></a> -->
-  &nbsp;
+<!--   &nbsp; -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!--   <a href="https://www.linkedin.com/in/joshidipesh12/" alt="Linkedin"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-box-line.svg"></a> -->
-   &nbsp;
+<!--    &nbsp; -->
 [![Twitter][twitter-shield]][twitter-url]
 <!--    <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-line.svg"></a> -->
 <!--     &nbsp; -->
