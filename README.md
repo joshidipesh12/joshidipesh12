@@ -1,5 +1,4 @@
-
-# Hey There 👋, I'm Dipesh Joshi
+# Hey There 👋, I'm Dipesh Joshi <img width="50" style="float: right;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif">
 
 - 👨‍💻 Passionate and creative Full-Stack developer. 
 - 🚀 Love To Explore & Diving Into New Technologies.
@@ -13,28 +12,10 @@
 - React-Native, Flutter, Android
 - MongoDB, MySQL, Redis
 
-<img style="position: absolute; left: 0px;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif"/>
 
 ## Social Contacts 🤝
-<!-- 
-<div>
- &nbsp; -->
-[![Instagram][insta-shield]][insta-url]
-<!--  <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-line.svg"></a> -->
-<!--   &nbsp; -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<!--   <a href="https://www.linkedin.com/in/joshidipesh12/" alt="Linkedin"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-box-line.svg"></a> -->
-<!--    &nbsp; -->
-[![Twitter][twitter-shield]][twitter-url]
-<!--    <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-line.svg"></a> -->
-<!--     &nbsp; -->
-<!--     <a href="https://www.behance.net/ikunalmathur" alt="Behance"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/behance-line.svg"></a> -->
-<!--      &nbsp; -->
-<!--      <a href="https://dribbble.com/iKunalmathur" alt="Dribbble"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/dribbble-line.svg"></a> -->
-<!--       &nbsp; -->
-<!--  <div> -->
-  
-<!-- <br /> -->
+
+[![Instagram][insta-shield]][insta-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url]
 
 <!-- | Sites      | URL |
 | :---        |    :---  |
