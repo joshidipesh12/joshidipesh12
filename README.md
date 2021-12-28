@@ -16,9 +16,9 @@
 <img style="position: absolute; align-self: flex-end;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 
 ## Social Contacts 🤝
-
+<!-- 
 <div>
- &nbsp;
+ &nbsp; -->
 [![Instagram][insta-shield]][insta-url]
 <!--  <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-line.svg"></a> -->
   &nbsp;
@@ -27,12 +27,12 @@
    &nbsp;
 [![Twitter][twitter-shield]][twitter-url]
 <!--    <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-line.svg"></a> -->
-    &nbsp;
+<!--     &nbsp; -->
 <!--     <a href="https://www.behance.net/ikunalmathur" alt="Behance"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/behance-line.svg"></a> -->
-     &nbsp;
+<!--      &nbsp; -->
 <!--      <a href="https://dribbble.com/iKunalmathur" alt="Dribbble"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/dribbble-line.svg"></a> -->
-      &nbsp;
- <div>
+<!--       &nbsp; -->
+<!--  <div> -->
   
 <!-- <br /> -->
 
