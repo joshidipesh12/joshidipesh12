@@ -34,6 +34,8 @@
   "available": true,
 }
 ```
+
+![my's github stats](https://github-readme-stats.vercel.app/api?username=joshidipesh12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000)
    
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshidipesh12
