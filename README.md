@@ -4,11 +4,12 @@
 - 🚀 Love To Explore & Diving Into New Technologies.
 - 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
 - 🗺 Currently living at New Delh, India.
+- 
 
 ## Tech Stack 🎒
 
 - NodeJS, Express, TypeScript
-- Next JS, Gatsby, React, Redux
+- Next JS, Gatsby, Express, Redux
 - React-Native, Flutter, Android
 - MongoDB, MySQL, Redis
 
