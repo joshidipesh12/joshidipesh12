@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Dipesh Joshi <img width="50" style="float: right;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif">
+# Hey there 👋, I'm [Dipesh Joshi](https://joshidipesh12.github.io) <img width="50" style="float: right;" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif">
 
 - 👨‍💻 Passionate and creative Full-Stack developer. 
 - 🚀 Love To Explore & Diving Into New Technologies.
@@ -7,8 +7,8 @@
 
 ## Tech Stack 🎒
 
+- React(NextJS & Gatsby), Redux
 - NodeJS, Express, TypeScript
-- Next JS, Gatsby, Express, Redux
 - React-Native, Flutter, Android
 - MongoDB, MySQL, Redis
 
@@ -17,10 +17,7 @@
 
 [![Instagram][insta-shield]][insta-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url]
 
-<!-- | Sites      | URL | -->
-<!-- | :---        |    :---  | -->
 | Portfolio  | https://joshidipesh12.github.io |
-<!-- | Blog  | https://www.blog.devsolo.in | -->
 
 ## About 🗃 
   
