@@ -4,7 +4,6 @@
 - 🚀 Love To Explore & Diving Into New Technologies.
 - 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
 - 🗺 Currently living at New Delh, India.
-- 
 
 ## Tech Stack 🎒
 
@@ -35,6 +34,12 @@
   "available": true,
 }
 ```
+
+- I like singing 🎙️
+- Marvel, B99 & One Direction fan
+- I love giving live informative sessions
+- Front-End Lead at Google Developer Student Club DUCS
+- Recently worked as Facilitator for Android Study Jams at campus
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=joshidipesh12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000)
    
