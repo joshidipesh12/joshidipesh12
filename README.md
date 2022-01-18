@@ -13,7 +13,7 @@
 - MongoDB, MySQL, Redis
 
 
-## Social Contacts 🤝
+## Contact 🤝
 
 [![Instagram][insta-shield]][insta-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url]
 
