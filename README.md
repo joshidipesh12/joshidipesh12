@@ -33,10 +33,10 @@
 ```
 
 - I like singing 🎙️
-- Marvel, B99 & One Direction fan
-- I love giving live informative sessions
-- Front-End Lead at Google Developer Student Club DUCS
-- Recently worked as Facilitator for Android Study Jams at campus
+- Marvel, B99, F.R.I.E.N.D.S 😍
+- I love discussing tech and life fiasco ⬆️
+- Front-End Lead at Google Developer Student Club DUCS 👨‍🏭
+- Recently worked as Facilitator for Android Study Jams at campus 📲
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=joshidipesh12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000)
    
